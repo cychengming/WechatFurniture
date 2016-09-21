@@ -1,0 +1,17 @@
+@charset "utf-8";
+/* CSS Document */
+.nav_help{ width:220px; min-height:595px;background:#fff; margin-right:20px; overflow:hidden}	
+	.tit_help{ height:50px; line-height:50px; background:#39a1ea; color:#fff;font-size:18px; text-align:center;padding:0 20px;overflow:hidden}
+	.nav_help dl{ border-bottom:5px solid #f6fafb; padding:6px 0;overflow:hidden}
+		.nav_help dt{ height:42px; line-height:42px;font-size:16px; padding:0 20px; border-bottom:1px dashed #dbe4eb;}	
+		.nav_help dd{line-height:36px; padding:0 35px; overflow:hidden}
+		.cur_help{ font-size:14px; color:#39a1ea;}
+		.cur_help a{ font-size:14px; color:#39a1ea;}
+		.nav_help dd a:hover{ color:#39a1ea; font-size:14px;}
+
+.help_star{ width:790px; margin:10px 35px; border:1px solid #eaeaea; border-bottom:none; overflow:hidden;}
+	.help_star dl{ border-bottom:1px solid #eaeaea; background:#fff; clear:both; overflow:hidden}
+	.help_star dl dt{ width:139px; padding:8px 20px; float:left;}
+	.help_star dl dd{ width:570px; padding:5px 20px;  float:left; border-left:1px solid #eaeaea; overflow:hidden}
+		.help_star dl dt span{ width:20px; height:20px; float:left; margin-right:6px; display:block;}
+		.help_star dl dt span img{ width:20px; height:20px; }

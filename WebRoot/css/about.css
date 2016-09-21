@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+.main_about{ width:990px; margin:20px auto 0; overflow:hidden}
+.nav_about{ width:220px; min-height:595px;background:#fff; margin-right:20px; overflow:hidden}	
+	.nav_about dt{ height:50px; line-height:50px; background:#39a1ea; color:#fff;font-size:18px; text-align:center;padding:0 20px;overflow:hidden}	
+	.nav_about dd{ height:50px; line-height:50px; border-bottom:1px dashed #dbe4eb; padding:0 30px;overflow:hidden}
+	.cur_about a{ font-size:14px; color:#61a1df; font-weight:bold;}
+	.nav_about dd a:hover{ margin-left:2px; color:#61a1df; font-size:14px;}
+	
+	
+.about{ width:750px; overflow:hidden}
+.about_con{ width:750px;background:#fff; margin-top:20px; padding-bottom:10px; overflow:hidden}
+	.tit_about{ height:38px; line-height:38px; color:#61a1df;font-size:18px;font-family:Microsoft yahei; background:url(../images/about/bg_titabout.gif) no-repeat center; margin:5px 0 6px;}
+	
+	.about_con p{line-height:28px; font-size:14px; padding:7px 35px;}
+	.about_con a{ font-size:14px; padding:0 5px;}
+	.about_con ul{ padding:5px 35px 7px; overflow:hidden}
+		.about_con li{ height:44px; line-height:44px; border-bottom:1px dashed #dbe4eb; background:url(../images/about/icon_li.gif) no-repeat 5px center; padding-left:20px; display:block; overflow:hidden;}
+		.about_con li span{ float:right; color:#999;}
+	
+	.about_con p img{display:block;width:100%;height:auto;}
+	
+	.ad_about{ width:750px; height:50px; overflow:hidden}	           
+	 .tit_about span{   padding: 0px 5px;
+  margin-left: 30px;
+  text-align: center;
+  background: #FFF;}	
+
+	
+	
