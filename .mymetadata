@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WechatFurniture"
+  id="myeclipse.1461552266815"
+  context-root="/WechatFurniture"
+  j2ee-spec="5.0"
+  archive="WechatFurniture.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
